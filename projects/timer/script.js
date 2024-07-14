@@ -1,5 +1,5 @@
 
-// Timed showing html contents
+// Countdown from entered number to 0
 
 const timer = function (_time) {
   if (_time > 0) {
