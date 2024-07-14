@@ -1,0 +1,25 @@
+body {
+    background-image: linear-gradient(to right, rgb(25, 25, 25), rgb(75, 75, 75));
+}
+
+.title {
+    color: darkgoldenrod;
+    font: 50px garamond;
+}
+
+.txt {
+    display: inline-block flex;
+    color: darkcyan;
+    font: 35px garamond;
+}
+
+.input {
+    color: white;
+    background-color: rgb(50, 50, 50);
+    margin: 10px;
+    font: 25px garamond;
+}
+
+.hidden {
+    display: none;
+}
